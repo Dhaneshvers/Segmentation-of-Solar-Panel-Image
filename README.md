@@ -40,9 +40,45 @@ The U-Net model is specifically designed for image segmentation, featuring a dua
 
 3. **InceptionV3**: This model employs Inception modules to capture multi-scale features, making it suitable for complex images with varying defect sizes, although it is more resource-intensive.
 
+4.)  **efficientnetb4** : EfficientNetB4 is a convolutional neural network model that scales image resolution, depth, and width uniformly, offering high accuracy for detailed images with optimized resource efficiency.
+
 ## Dataset Requirements
 
 The dataset for this project can be downloaded from [Zenodo](https://zenodo.org/records/10939100).Each image and mask should be resized to 256x256 pixels.
+
+##Results
+
+1. **ResNet34** :
+   
+![loss VS val_loss300](https://github.com/user-attachments/assets/83714788-77fb-4064-a645-de972ea8e063)
+
+![Output_image300](https://github.com/user-attachments/assets/80ab0be1-af9b-4c68-ad2f-9eb83b303596)
+
+![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/4e96670d-75c8-4a96-b0c6-82e8906b2bfd)
+
+2. **VGG16**:
+   
+![loss VS val_loss300](https://github.com/user-attachments/assets/193fc475-7e4a-4a98-bd72-c737e4b5ca87)
+
+![Output_image300](https://github.com/user-attachments/assets/b3df6610-7b06-4ce7-90da-0197f158c4a5)
+
+![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/88a87ff8-ec47-4348-9b10-6ad4f0e4757b)
+
+3.) **InceptionV3**
+
+![loss VS val_loss300](https://github.com/user-attachments/assets/15011017-c2ae-4926-af1f-2af2b942d7e1)
+
+![Output_image300](https://github.com/user-attachments/assets/00a89e98-763e-4aa7-8dba-1f8193379008)
+
+![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/3d737497-d219-4441-9066-c1bb4878e7e4)
+
+4.)  **efficientnetb4** :
+
+![loss VS val_loss300](https://github.com/user-attachments/assets/965c7efd-3c5c-4932-8201-24c96c26ae4a)
+
+![Output_image300](https://github.com/user-attachments/assets/05bebc92-1e3f-4a22-ae3e-6eef93ba260c)
+
+![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/4600e987-e82d-44d5-8105-3b64343989b6)
 
 
 ## Conclusion
