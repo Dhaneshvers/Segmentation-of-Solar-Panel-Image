@@ -66,35 +66,53 @@ The dataset for this project can be downloaded from [Zenodo](https://zenodo.org/
 ![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/4e96670d-75c8-4a96-b0c6-82e8906b2bfd)
 
 
-2. **VGG16**:
+2.  **VGG16** :
+                    **Loss vs val_loss**
    
 ![loss VS val_loss300](https://github.com/user-attachments/assets/193fc475-7e4a-4a98-bd72-c737e4b5ca87)
 
+**VGG16** :
+                    **Model Predicted Images**
 
 ![Output_image300](https://github.com/user-attachments/assets/b3df6610-7b06-4ce7-90da-0197f158c4a5)
 
+**VGG16** :
+                    **val_accuracy VS val_loss300**
 
 ![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/88a87ff8-ec47-4348-9b10-6ad4f0e4757b)
 
 
-3.) **InceptionV3**
+3.) **InceptionV3** :
+                    **Loss vs val_loss**
 
 ![loss VS val_loss300](https://github.com/user-attachments/assets/15011017-c2ae-4926-af1f-2af2b942d7e1)
 
+ **InceptionV3** :
+                    **Model Predicted Images**
 
 ![Output_image300](https://github.com/user-attachments/assets/00a89e98-763e-4aa7-8dba-1f8193379008)
 
+ **InceptionV3** :
+                    **val_accuracy VS val_loss300**
 
 ![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/3d737497-d219-4441-9066-c1bb4878e7e4)
 
 
 4.)  **efficientnetb4** :
+                      **Loss vs val_loss**
 
 ![loss VS val_loss300](https://github.com/user-attachments/assets/965c7efd-3c5c-4932-8201-24c96c26ae4a)
 
 
+ **efficientnetb4** :
+                      **Model Predicted Images**
+
+
 ![Output_image300](https://github.com/user-attachments/assets/05bebc92-1e3f-4a22-ae3e-6eef93ba260c)
 
+
+ **efficientnetb4** :
+                      **val_accuracy VS val_loss300***
 
 ![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/4600e987-e82d-44d5-8105-3b64343989b6)
 
