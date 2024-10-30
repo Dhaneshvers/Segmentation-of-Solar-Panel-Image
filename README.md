@@ -54,12 +54,15 @@ The dataset for this project can be downloaded from [Zenodo](https://zenodo.org/
 ![loss VS val_loss300](https://github.com/user-attachments/assets/83714788-77fb-4064-a645-de972ea8e063)
 
 
-                   **Model Predicted Images**
+   **ResNet34** :
+                      **Model Predicted Images**
 
 ![Output_image300](https://github.com/user-attachments/assets/80ab0be1-af9b-4c68-ad2f-9eb83b303596)
 
 
-
+   **ResNet34**:
+                    **val_accuracy VS val_loss300**
+                  
 ![val_accuracy VS val_loss300](https://github.com/user-attachments/assets/4e96670d-75c8-4a96-b0c6-82e8906b2bfd)
 
 
