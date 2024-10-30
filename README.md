@@ -1,0 +1,1 @@
+# Segmentation-of-Solar-Panel-Image
