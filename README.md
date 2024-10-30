@@ -49,6 +49,7 @@ The dataset for this project can be downloaded from [Zenodo](https://zenodo.org/
 ## Results
 
 1. **ResNet34** :
+                    ## Loss vs val_loss
    
 ![loss VS val_loss300](https://github.com/user-attachments/assets/83714788-77fb-4064-a645-de972ea8e063)
 
